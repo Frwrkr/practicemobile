@@ -1,0 +1,10 @@
+include ':dateandtime'
+include ':independentwork'
+include ':dialog'
+include ':notificationapp'
+include ':toastapp'
+include ':intentfilter'
+include ':multiactivity'
+include ':lifecycleactivity'
+include ':app'
+rootProject.name = "practice2"
